@@ -1,4 +1,3 @@
-readme = <<~README
   # 💰 Simple Finance Dashboard
 
   A personal finance dashboard built with **Streamlit** and **Plotly**, allowing users to upload CSV transaction files, categorize expenses, and visualize income and spending habits through charts and summaries.
@@ -31,9 +30,6 @@ Date,Details,Amount,Debit/Credit
 12 Jan 2024,Amazon,120.00,Debit
 15 Jan 2024,Paycheck,2500.00,Credit
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -69,9 +65,6 @@ Edit
 ├── categories.json # Saved user categories and keywords (auto-generated)
 ├── your_script.py # Streamlit app
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -92,7 +85,5 @@ Edit
 
 ## 🔒 Disclaimer
 
-All data is stored locally. This is a simple personal-use tool and is not intended for sensitive or commercial finance tracking.
-README
+All data is stored locally. This is a simple personal-use tool and is not intended for sensitive or commercial finance tracking. **PLEASE USE COMMON SENSE**
 
-puts readme
